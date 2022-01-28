@@ -22,4 +22,5 @@ pit1= Pit(name,animal_type,age)
 print('\nName',pit1.get_name())
 print('\nAnimal type', pit1.get_animal_type())
 print('\nAge', pit1.get_age())
+#because of learning, I add comment
 
