@@ -9,3 +9,7 @@ property=input(':')
 print(gal_moon.get(property))
 print(moon_surface.get(property))
 print(moon_orbital.get(property))
+
+
+print('HELLO ZUHARA ');
+
